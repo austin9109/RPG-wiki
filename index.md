@@ -33,26 +33,12 @@
 
 </br>
 
-## 遊戲的破關條件
-----------------
-
-玩家最後的目標可以是下列這幾點:
-
-+ 打敗目前遊戲內容中最後的 BOSS，
-+ 完成物品圖建蒐集
-+ 完成遊戲內的某些成就
-+ 任何一個玩家自己內設的過關條件
-
-... 等等
-
-</br>
-
 ## 進度規劃
 -----------
 
 - **Phase1: 主題設定**
     + 藍天發想
-    + 主題討論
+    + 主題討論 <--- We are here
 - **Phase2: 遊戲基礎建置** 
     + 核心引擎搭建 <--- We are here
     + 遊戲資料序列化與反序列化
@@ -70,11 +56,6 @@
     + 遊戲正式上線
 
 </br>
-
-  This is a hyperlink to [Google](http://google.com).
-
-  Images are like hyperlinks, but with an exclamation mark in front of them:
-  ![](http://placekitten.com/g/250/250)
 
 ## 開發人員
 ----------
